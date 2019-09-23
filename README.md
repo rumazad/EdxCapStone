@@ -1,2 +1,0 @@
-# EdxCapStone
-Edx CapStone Project
